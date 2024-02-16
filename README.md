@@ -2,7 +2,7 @@
 
 Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando React, TypeScript, Tailwind e a SpeechRecognition API. 
 
-## Table of contents
+## Conteúdo
 
 - [Visão geral](#visão-geral)
   - [Projeto](#projeto)
