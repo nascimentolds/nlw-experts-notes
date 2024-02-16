@@ -23,7 +23,7 @@ trata-se aplicação que converte notas de áudio em texto de forma rápida e pr
 
 ### Links
 
-- Live Site URL: [Veja minha solução rodando](https://nlw-experts-notes-omega.vercel.app/)
+- Live Site URL: [Veja a aplicação rodando](https://nlw-experts-notes-omega.vercel.app/)
 
 ## Meu processo
 
