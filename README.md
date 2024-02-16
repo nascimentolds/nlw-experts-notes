@@ -29,14 +29,14 @@ trata-se aplicação que converte notas de áudio em texto de forma rápida e pr
 
 ### Desenvolvido com
 
-  - [React] (https://react.dev/)
-  - [Date-fns] (https://date-fns.org/)
-  - [Tailwind CSS] (https://tailwindcss.com/)
-  - [TypeScript] (https://www.typescriptlang.org/)
-  - [Vite] (https://vitejs.dev/)
-  - [PostCSS] (https://postcss.org/)
-  - [Radix UI] (https://www.radix-ui.com/)
-  - [Lucide-react] (https://lucide.dev/guide/packages/lucide-react)
-  - [Sonner] (https://sonner.emilkowal.ski//)
-  - [SpeechRecognition] (https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
+  - React - https://react.dev/
+  - Date-fns - https://date-fns.org/
+  - Tailwind CSS - https://tailwindcss.com/
+  - TypeScript - https://www.typescriptlang.org/
+  - Vite - https://vitejs.dev/
+  - PostCSS - https://postcss.org/
+  - Radix UI - https://www.radix-ui.com/
+  - Lucide-react - https://lucide.dev/guide/packages/lucide-react
+  - Sonner - https://sonner.emilkowal.ski//
+  - SpeechRecognition - https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 
