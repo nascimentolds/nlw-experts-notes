@@ -15,7 +15,7 @@ Essa aplicação foi desenvolvida durante o NLW Experts da Rocketseat utilizando
 
 ### Projeto
 
-trata-se aplicação que converte notas de áudio em texto de forma rápida e precisa. Com uma interface intuitiva, os usuários podem gravar suas notas e obter a transcrição em poucos segundos.
+Trata-se aplicação que converte notas de áudio em texto de forma rápida e precisa. Com uma interface intuitiva, os usuários podem gravar suas notas e obter a transcrição em poucos segundos.
 
 ### Screenshot
 
